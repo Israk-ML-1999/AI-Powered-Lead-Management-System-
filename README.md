@@ -9,12 +9,6 @@ A comprehensive project showcasing two critical components of a modern AI-powere
 ## 📋 Table of Contents
 
 - [Overview](#overview)
-- [Assessment 1: n8n Lead Classification Workflow](#assessment-1-n8n-lead-classification-workflow)
-- [Assessment 3: AI-Powered Lead Management SaaS Architecture](#assessment-3-ai-powered-lead-management-saas-architecture)
-- [Technology Stack](#technology-stack)
-- [Key Features](#key-features)
-- [Project Structure](#project-structure)
-
 ---
 
 ## 🎯 Overview
